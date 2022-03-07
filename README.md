@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rafatuba
 - 👀 I’m interested in Front-end
 - 🌱 I’m currently learning HTML Web Developer
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Majoring in Systems Analysis and Development
 - 📫 How to reach me: rafaolly1@gmail.com
 
 <!---
