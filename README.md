@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Rafatuba
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML Web Developer
-- 💞️ Majoring in Systems Analysis and Development
-- 📫 How to reach me: rafaolly1@gmail.com
+- 👋 Olá, eu sou o Rafael
+- 👀 Tenho interesse em Tecnologias Front-end
+- 🌱 Estou fazendo Faculdade de Análise e Desenvolvimento de Sistemas
+- 📫 Meu contato: rafaolly1@gmail.com
 
 <!---
 Rafatuba/Rafatuba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
