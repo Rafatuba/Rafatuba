@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou o Rafael
 - 👀 Tenho interesse em Tecnologias Front-end
-- 🌱 Estou fazendo Faculdade de Análise e Desenvolvimento de Sistemas
+- 🌱 Sou formado em Análise e Desenvolvimento de Sistemas
 - 📫 Meu contato: rafaolly1@gmail.com
 
 <!---
